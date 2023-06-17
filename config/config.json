@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "postgres",
+    "password": "fawwaz29",
+    "database": "siakad_mahasiswa_dev",
+    "host": 5432,
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "postgres",
+    "password": "fawwaz29",
+    "database": "database_test",
+    "host": "5432",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "postgres",
+    "password": "fawwaz29",
+    "database": "database_production",
+    "host": "5432",
+    "dialect": "postgres"
+  }
+}
